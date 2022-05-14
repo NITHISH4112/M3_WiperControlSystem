@@ -10,10 +10,10 @@ MICROCONTROLLER BOARD STM32F4O7VG
 STMCUBE32 IDE
 
 # MICROCONTROLLER STM32F407VG FEATURES
-The STM32F407VGT6 microcontroller contains a 32-bit ARM Cortex-M4 with FPU core, 1-Mbyte Flash memory, and 192-Kbyte RAM in a LQFP100 package.
-Large-scale storage
-Board power is supplied through USB or an external 5 V supply source
-3 V and 5 V external application power supply
+* The STM32F407VGT6 microcontroller contains a 32-bit ARM Cortex-M4 with FPU core, 1-Mbyte Flash memory, and 192-Kbyte RAM in a LQFP100 package.
+* Large-scale storage
+* Board power is supplied through USB or an external 5 V supply source
+* 3 V and 5 V external application power supply
 # Uses
 Printing and scanning equipment, heat ventilation, air conditioning, and security systems all use this microcontroller.
 # Working principle
